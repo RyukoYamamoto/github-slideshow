@@ -2,4 +2,4 @@
 layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
-create new file
+create a new file
